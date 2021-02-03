@@ -22,7 +22,7 @@ checkIfAllArgumentsAreNumber(numbers)
 ```
 
 Recebe um número e irá retorna-lo caso ele seja par na função isPair, ou ímpar na função isOdd.
- ``` 
+ ```javascript
 isPair(number)
 isOdd(number)
 ```
